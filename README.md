@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Salomon Kamina !
 
-Junior Full Stack Developer | React & Node.js Enthusiast | AI & Big Data Student
+Junior Full Stack Developer | Full JS Specialist | AI & Big Data Student
 
 ---
 
