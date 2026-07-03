@@ -27,12 +27,13 @@ I'm a passionate junior developer currently studying **AI and Big Data** at univ
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Other Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
@@ -56,7 +57,6 @@ Here are some of my best projects:
 
 - 🤖 **AI & Machine Learning** concepts
 - 📊 **Big Data** tools and frameworks
-- 🔄 Advanced **NestJS** patterns
 - ☁️ Cloud deployment (AWS/Google Cloud)
 
 ---
@@ -64,7 +64,7 @@ Here are some of my best projects:
 ## 📫 Let's Connect!
 
 - 💼 **LinkedIn**: [My LinkedIn](www.linkedin.com/in/salomon-kamina-804a7739a)
-- 📧 **Email**: salomonkamina16@outlook.fr
+- 📧 **Email**: salomonkamina39@gmail.com
 
 ---
 
