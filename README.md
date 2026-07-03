@@ -37,12 +37,6 @@ I'm a passionate junior developer currently studying **AI and Big Data** at univ
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Crematorium39&theme=dark&show_icons=true)
-
----
-
 ## 🎯 Featured Projects
 
 Here are some of my best projects:
